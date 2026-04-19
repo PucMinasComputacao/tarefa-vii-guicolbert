@@ -5,12 +5,13 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome:Guilherme Alves Colbert Camara
+- Matricula:1645084
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/f65b45f5-6173-408e-8add-d4ad5500bf1a" />
+
 
 
 
